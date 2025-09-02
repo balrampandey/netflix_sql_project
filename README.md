@@ -173,6 +173,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 **Your Name:** Balram Pandey  
 **Email:** [balram.cpt@gmail.com](mailto:balram.cpt@gmail.com)  
+**Quick Access:**[linktr.ee/balrampandey]
 
 ---
 
@@ -181,3 +182,4 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 This comprehensive SQL-based analysis of Netflix's content library demonstrates the power of data analytics in extracting meaningful business insights from large datasets. The project showcases advanced analytical capabilities while providing actionable intelligence for strategic content management and business development initiatives.
 
 ⭐️ Feel free to star this repository if you found it helpful!
+
