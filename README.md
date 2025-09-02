@@ -5,12 +5,12 @@ This project presents a comprehensive analytical study of Netflix's content libr
 
 ## Project Objectives
 The analysis addresses critical business questions to understand Netflix's content landscape, including:
-**1-Content Distribution Analysis:** Examining the composition of movies versus TV shows in Netflix's catalog.
-**2-Geographic Content Mapping:**Identifying content production patterns across different countries.
-**3-Temporal Trend Analysis:**Understanding content release patterns and historical growth trends.
-**4-Genre and Category Performance:**Analyzing popular content categories and their market performance.
-**5-Content Maturity Profiling:**Evaluating content ratings and target audience demographics.
-**6-Quality Assessment Metrics:**Investigating content duration, cast diversity, and production characteristics.
+*1-Content Distribution Analysis:** Examining the composition of movies versus TV shows in Netflix's catalog.
+*2-Geographic Content Mapping:**Identifying content production patterns across different countries.
+*3-Temporal Trend Analysis:**Understanding content release patterns and historical growth trends.
+*4-Genre and Category Performance:**Analyzing popular content categories and their market performance.
+*5-Content Maturity Profiling:**Evaluating content ratings and target audience demographics.
+*6-Quality Assessment Metrics:**Investigating content duration, cast diversity, and production characteristics.
 ## Business Intelligence Framework
 **Key Performance Indicators (KPIs)**
 *Content volume by type and release year
@@ -25,21 +25,21 @@ The analysis addresses critical business questions to understand Netflix's conte
 *Subqueries and Common Table Expressions (CTEs) for complex data transformations
 *Date/time analysis for temporal pattern recognition
 
-## 📋 Data Source
+ 📋 Data Source
 The data was sourced from publicly available Netflix content databases and has been cleaned, normalized, and structured for analytical purposes.
 
 The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/balrampanday/data-netflix)
 
-##🙏 Acknowledgments
+🙏 Acknowledgments
 Netflix for the original content data
 Kaggle and other open data communities
 Contributors and supporters of this project
-##🛠️ Tools and Technologies
+🛠️ Tools and Technologies
 **Database: PostgreSQL**
 
-##📊 There are 36 of Business Problems and their Solutions
+📊 ##There are 36 of Business Problems and their Solutions
 
 ## Schema
 ```sql
@@ -128,9 +128,10 @@ SELECT * FROM netflix;
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-### Stay Updated
-**Your Name** Balram Pandey
-**Email** [balram.cpt@gmail.com]
+## Stay Updated
+**Your Name** Balram Pandey**
+**Email** [balram.cpt@gmail.com]**
 
 ##Conclusion
+
 This comprehensive SQL-based analysis of Netflix's content library demonstrates the power of data analytics in extracting meaningful business insights from large datasets. The project showcases advanced analytical capabilities while providing actionable intelligence for strategic content management and business development initiatives.
